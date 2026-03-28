@@ -2,7 +2,7 @@
 - 🤖 I work across AI product design, algorithms, agent workflows, and full-stack prototyping
 - 🌱 I'm currently focused on AIGC, RAG, AI agents, and practical AI-native product building
 - 💞️ Open to collaborations on AI products, agent systems, and interesting internet tools
-- 📫 Email: zliu2934@gmail.com
+- 📫 Email: liuzhenyuan1119@126.com
 - 💬 WeChat: `bboy_Zhenyuan`
 
 <!---
